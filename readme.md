@@ -12,7 +12,6 @@
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/ej1f5OE3SNQ?si=lCxDhJix9ungq1Ry"><img src="assets/btn_youtube.svg" alt="Watch Demo" width="180"></a>
   <a href="working%20behind/architecture_overview.md"><img src="assets/btn_docs.svg" alt="Explore Docs" width="180"></a>
 </p>
 
@@ -126,7 +125,7 @@ S.A.R.A. is equipped with a comprehensive suite of action modules located in the
 *   💻 **Computer & Desktop Control** — Modify system settings, manage windows, use keyboard shortcuts, and manipulate files with high precision (`computer_settings.py`, `desktop.py`, `file_controller.py`).
 *   🧑‍💻 **Code Helper & Dev Agent** — Get assistance with coding, debugging, and software development tasks directly in your workspace (`code_helper.py`, `dev_agent.py`).
 *   📱 **Phone Control & Messaging** — Interact with connected mobile devices and dispatch messages across platforms (`phone_control.py`, `send_message.py`).
-*   🎥 **Media & Screen Processing** — Control media playback, summarize YouTube videos, and analyze screen contents through advanced vision capabilities (`youtube_video.py`, `screen_processor.py`).
+*   🎥 **Media & Screen Processing** — Control media playback and analyze screen contents through advanced vision capabilities (`screen_processor.py`).
 *   🌦️ **Utility Actions** — Check weather reports, find flights, set reminders, and manage apps & games (`weather_report.py`, `flight_finder.py`, `reminder.py`, `open_app.py`, `game_updater.py`).
 
 <p align="center"><img src="assets/divider.svg" alt="divider" width="80%"></p>
@@ -182,10 +181,6 @@ python main.py
 
 <p align="center"><img src="assets/divider.svg" alt="divider" width="80%"></p>
 
-## 🔒 License & Usage
-
-Personal and non-commercial use only.
-Licensed under **[Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)**.
 
 <p align="center"><img src="assets/divider.svg" alt="divider" width="80%"></p>
 
