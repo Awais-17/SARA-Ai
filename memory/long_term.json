@@ -1,0 +1,103 @@
+{
+  "identity": {
+    "name": {
+      "value": "Awais",
+      "updated": "2026-05-29"
+    },
+    "job": {
+      "value": "computer science student",
+      "updated": "2026-05-29"
+    },
+    "college": {
+      "value": "Presidency University",
+      "updated": "2026-05-29"
+    },
+    "birthday": {
+      "value": "2006-07-17",
+      "updated": "2026-05-31"
+    }
+  },
+  "preferences": {
+    "favorite_movie": {
+      "value": "Interstellar",
+      "updated": "2026-05-29"
+    },
+    "favorite_directors": {
+      "value": "Christopher Nolan, Martin Scorsese, David Fincher",
+      "updated": "2026-05-29"
+    }
+  },
+  "projects": {
+    "operating_system_exam": {
+      "value": "Has an operating system exam tomorrow",
+      "updated": "2026-05-29"
+    },
+    "Operating System Exam": {
+      "value": "Done",
+      "updated": "2026-05-31"
+    },
+    "AI Exam": {
+      "value": "Has an AI exam tomorrow",
+      "updated": "2026-05-29"
+    },
+    "Ai Exam": {
+      "value": "Done",
+      "updated": "2026-05-31"
+    },
+    "nvidia_internship": {
+      "value": "Starting internship tomorrow focusing on AI/ML/Deep Learning",
+      "updated": "2026-05-31"
+    },
+    "interface_modifications": {
+      "value": "Adding cursor access and changing interface",
+      "updated": "2026-05-31"
+    },
+    "workspace_projects": {
+      "value": "Retrogram (Expo/Node monorepo), Metis2 (Mobile Kotlin IDE), HeliosIDE (Electron IDE), CAre-Ai (Compose Medical app), ML Lab (Data Science)",
+      "updated": "2026-05-31"
+    },
+    "development_workflow": {
+      "value": "User's IDE manages API keys for various models (like Git, Anthropi), allows building and importing files, notes Nvidia NIM provides free models for developers, and the process automatically creates agents.",
+      "updated": "2026-06-03"
+    },
+    "Nvidia Internship": {
+      "value": "Ended on June 15th, 2026",
+      "updated": "2026-06-24"
+    },
+    "Nvidia Internship end date": {
+      "value": "2026-06-15",
+      "updated": "2026-06-24"
+    }
+  },
+  "relationships": {
+    "friend_name": {
+      "value": "Reemi",
+      "updated": "2026-06-07"
+    }
+  },
+  "wishes": {},
+  "notes": {
+    "wifi_issues": {
+      "value": "Has been using phone for laptop internet due to persistent wifi issues for many years",
+      "updated": "2026-05-29"
+    },
+    "friend_birthday": {
+      "value": "Jimmy Wilson's birthday",
+      "updated": "2026-05-31"
+    },
+    "morning_message": {
+      "value": "sent hi to bhai sir in the morning",
+      "updated": "2026-06-05"
+    },
+    "codeword": {
+      "value": "Daddy's home",
+      "updated": "2026-06-13"
+    }
+  },
+  "schedule": {
+    "exam_time": {
+      "value": "Operating System exam at 9:30 AM tomorrow",
+      "updated": "2026-05-29"
+    }
+  }
+}

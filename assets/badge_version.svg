@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="28" viewBox="0 0 140 28" style="background:none;">
+  <defs>
+    <linearGradient id="glowGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff007f" />
+      <stop offset="100%" stop-color="#7b3eff" />
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="1" stdDeviation="2" flood-color="#ff007f" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  <rect x="1" y="1" width="138" height="26" rx="6" fill="#02040a" stroke="url(#glowGrad)" stroke-width="1.5" filter="url(#shadow)"/>
+  <rect x="1" y="1" width="70" height="26" rx="6" fill="#090f1d" />
+  <path d="M 71 1 L 71 27" stroke="url(#glowGrad)" stroke-width="1"/>
+  <!-- Label -->
+  <text x="35" y="18" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="bold" fill="#00d4ff" text-anchor="middle" letter-spacing="1">VERSION</text>
+  <!-- Value -->
+  <text x="105" y="18" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="1">v2.0 HUD</text>
+</svg>

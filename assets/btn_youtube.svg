@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="50" viewBox="0 0 200 50" style="background:none;">
+  <defs>
+    <linearGradient id="ytGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff0055" />
+      <stop offset="100%" stop-color="#ff007f" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Outer border -->
+  <rect x="2" y="2" width="196" height="46" rx="8" fill="#02040a" stroke="url(#ytGrad)" stroke-width="2" filter="url(#glow)"/>
+  
+  <!-- Content -->
+  <g transform="translate(15, 12)">
+    <!-- YouTube Play Icon -->
+    <path d="M 5,2 C 1,2 0,3 0,7 L 0,19 C 0,23 1,24 5,24 L 23,24 C 27,24 28,23 28,19 L 28,7 C 28,3 27,2 23,2 Z" fill="#ff0055"/>
+    <polygon points="11,8 19,13 11,18" fill="#ffffff"/>
+    
+    <!-- Text -->
+    <text x="38" y="17" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="900" fill="#ffffff" letter-spacing="2">WATCH DEMO</text>
+  </g>
+</svg>
