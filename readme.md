@@ -22,6 +22,16 @@
 
 <p align="center"><img src="assets/divider.svg" alt="divider" width="80%"></p>
 
+## 📺 Demonstration
+
+Watch S.A.R.A. in action, demonstrating its real-time operating system control and interactive agent capabilities:
+
+<p align="center">
+  <video src="assets/demonstration%20video.mp4" width="100%" controls></video>
+</p>
+
+<p align="center"><img src="assets/divider.svg" alt="divider" width="80%"></p>
+
 ## ✨ Project Overview
 
 S.A.R.A. is the culmination of the assistant series, engineered to bridge the gap between human voice/text commands and local system execution. Utilizing real-time audio streams, vision processing, and deep system API calls, S.A.R.A. is not just an assistant—it is an intelligent agent designed for complete digital autonomy.
